@@ -1,6 +1,7 @@
 # 🐾 Brunswick Fur Food (BFF) – Pet E-Commerce Platform
 
-*Deployment:* Private  
+*Live Demo:* [https://web.brunswickfurfood.com/](https://web.brunswickfurfood.com/)  
+*Deployed on:* Vercel  
 *Stack:* Next.js (TypeScript), Tailwind CSS, Zustand, Shopify Storefront API, Shopify Admin API, MongoDB, Cloudinary, Appstle
 
 
