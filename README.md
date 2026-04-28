@@ -1,4 +1,4 @@
-# 🐾 Brunswick Fur Food (BFF) – Pet E-Commerce Platform
+# 🐾 Brunswick Fur Food (BFF)
 
 *Live Demo:* [https://web.brunswickfurfood.com/](https://web.brunswickfurfood.com/)  
 *Deployed on:* Vercel  
